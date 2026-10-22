@@ -6,7 +6,7 @@
 
   <groupId>com.pubfactory</groupId>
   <artifactId>learnositysdk</artifactId>
-  <version>0.18.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>Learnosity SDK</name>
   <url>https://github.com/Learnosity/learnosity-sdk-java</url>
